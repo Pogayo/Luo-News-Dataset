@@ -28,17 +28,17 @@ Get the most updated information from [README.txt](./README.txt)
 ### Categories
 News domain | Number of sentences
 ------------ | -------------
-Accidents, disasters and deaths | 	69
+Accidents, disasters and deaths | 	85
 Business| 	11
-Crime and Legal | 	70
+Crime and Legal | 	78
 Education | 	11
 Gender | 	7
-Health	| 144
-Politics and Government| 	87
-Religion	7
-Sports, music and entertainment | 	13
+Health	| 166
+Politics and Government| 	120
+Religion	| 31
+Sports, music and entertainment | 	19
+**Total**  | **528**
 
-**Total**  | **419**
 
 
 ## Repo Structure
