@@ -22,23 +22,11 @@ I did this as part of the [Masakhane NER project](https://github.com/masakhane-i
 ## About Dataset
 The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
-Dates published: 14/3/2020 - 11/7/2020.
+Dates published: 14/3/2018 - 11/7/2020.
 Get the most updated information from [README.txt](./README.txt)
 
 ### Categories
-News domain | Number of sentences
------------- | -------------
-Accidents, disasters and deaths | 	102
-Business| 	11
-Crime and Legal | 	103
-Education | 	20
-Gender | 	7
-Health	| 166
-Politics and Government| 	127
-Religion	| 31
-Sports, music and entertainment | 	19
-**Total**  | **586**
-
+Get the most updated information from [README.txt](./README.txt)
 
 
 ## Repo Structure
