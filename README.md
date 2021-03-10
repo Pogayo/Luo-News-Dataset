@@ -22,7 +22,7 @@ I did this as part of the [Masakhane NER project](https://github.com/masakhane-i
 ## About Dataset
 The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
 
-Dates published: 1/9/2018 - 27/7/2020.
+Dates published: 1/9/2018 - 10/3/2021.
 Get the most updated information from [README.txt](./README.txt)
 
 ### Categories
@@ -71,6 +71,8 @@ To get started...
 ![Perez Ogayo](https://avatars0.githubusercontent.com/u/39183794?s=460&u=59abe1533bfcd482c215e9ab4d9e2f8b76f01b6a&v=4?s=100)
 
 [Perez Ogayo](https://github.com/Pogayo)
+
+[Verrah Otiende](https://github.com/Verrah)
 - We are a small team. Join us and let's put Luo on the NLP Map together!
 ---
 

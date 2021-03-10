@@ -1,18 +1,20 @@
 
 The sentences were obtained from Ramogi FM website: https://rmsradio.co.ke/brands/ramogi-fm/ 
-Dates published: 1/9/2018 - 10/8/2020
+Dates published: 1/9/2018 - 10/3/2021
 
-Category	Frequency
-Accidents, disasters and deaths	162
-Crime and Legal	212
-Education	34
+Category	Total 
+Accidents, disasters and deaths	193
+Crime and Legal	290
+Education	71
 Gender	17
-Health	235
-Politics and Government	274
-Religion	46
-Business	45
-Sports, music and entertainment	29
-Total	1054
+Health	277
+Politics and Government	404
+Religion	45
+Business	82
+Sports, music and entertainment	30
+World News	4
+Total	1413
+
 
 
 
